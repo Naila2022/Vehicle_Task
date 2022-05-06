@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FCF66A4E-4712-44D0-ACE8-D676B08D3B4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Recep/Program.cs">
+    <Files>
+      <File FileName="Recep/Program.cs" Line="19" Column="10" />
+      <File FileName="Recep/Vehicels.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Recep" expanded="True">
+            <Node name="Recep" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Recep FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
